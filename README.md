@@ -31,15 +31,15 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** with 3+ years of
 
 ## 📹 My Mission
 
-I created **CodewithLalla** to share knowledge, build cool tech, and help students and developers grow. Whether it's through open-source contributions or educational content, I'm here to **code, learn, and share**.
+I created **CodewithLalla** to share knowledge, build cool tech, and help students grow. Whether it's through open-source contributions or educational content, I'm here to **code, learn, and share**.
 
 ---
 
 ## 📫 Connect with Me
 
 - 🌐 Portfolio: *Coming Soon*
-- 📷 Instagram: [@codewithlalla](https://www.instagram.com/codewithlalla)
-- 📩 Email: [contact.codewithlala@gmail.com](mailto:contact.codewithlala@gmail.com)
+- 📷 Instagram: *Coming Soon*
+- 📩 Email: [codewithlalla@gmail.com](mailto:codewithlalla@gmail.com)
 - 📺 YouTube: [CodewithLalla](https://www.youtube.com/@CodewithLalla)
 
 ---
