@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lalla – aka **CodewithLalla**!
 
-Welcome to my GitHub! I'm a passionate **Full Stack Developer** with 3+ years of hands-on experience in building web and mobile applications using modern JavaScript technologies like **React**, **Node.js**, **Angular**, and **MongoDB**.
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** with 4+ years of hands-on experience in building web and mobile applications using modern JavaScript technologies like **React**, **Node.js**, **Angular**, and **MongoDB**.
 
 ---
 
@@ -22,6 +22,8 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** with 3+ years of
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -30,6 +32,8 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** with 3+ years of
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-6DB33F?logo=websocket&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
@@ -43,6 +47,7 @@ I created **CodewithLalla** to share knowledge, build cool tech, and help studen
 
 - 🌐 Portfolio: *Coming Soon*
 - 📷 Instagram: *Coming Soon*
+- 🐦 X (Twitter): *Coming Soon*
 - 📩 Email: [codewithlalla@gmail.com](mailto:codewithlalla@gmail.com)
 - 📺 YouTube: [CodewithLalla](https://www.youtube.com/@CodewithLalla)
 
